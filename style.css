@@ -1,0 +1,44 @@
+.para{
+    background-color:skyblue;
+    font-size: 30px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 20px black;
+    shape-margin: 5px;
+    font-weight: bolder;
+    font-style: italic;
+
+    /*yewdgfuy*/
+}
+*{
+    background-color: cornsilk;
+}
+li{
+    color: blue;
+    background-color: coral;
+    margin: 0px;
+    border-radius: 10px;
+}
+ol{
+    text-align: center;
+    
+}
+header{
+    text-align: center;
+    font-size: 50px;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: orange;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 20px 10px;
+}
+p{
+    background-color: purple;
+}
+.cow{
+    border: 2px solid yellow;
+
+}
